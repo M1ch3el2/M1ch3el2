@@ -15,9 +15,7 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
     
   
@@ -27,9 +25,6 @@
     </a>
     <a href = "https://www.linkedin.com/in/michel-souza-8a293824b/">
       <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/">
-      <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/m1ch3el2/">
       <img width="25" src="instagram.png">
