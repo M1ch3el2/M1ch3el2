@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I'm a developer enthusiast and passionate about cr
 
 <div>
   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=M1ch3el2&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ch3el2&layout=compact&langs_count=16&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=M1ch3el2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ch3el2&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
