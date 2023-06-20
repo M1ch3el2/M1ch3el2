@@ -1,4 +1,4 @@
-## Faaaala dev, Michel Aqui!
+## Faaaala pessoal, Michel Aqui!
 
 <div>
   
@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="helloWorld.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Melhores Tecnologias :white_check_mark:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
