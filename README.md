@@ -1,6 +1,6 @@
 ## Heeeeey guys, I'm Michel!
 
-Welcome to my GitHub profile. I'm a programming enthusiast and passionate about creating innovative solutions through code. Here you will find a variety of projects and repositories that reflect my interest in different areas, from web development to data science.
+Welcome to my GitHub profile. I'm a developer enthusiast and passionate about creating innovative solutions through code. Here you will find a variety of projects and repositories that reflect my interest in different areas, from web development to data science.
 
 <div>
   
