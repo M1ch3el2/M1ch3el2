@@ -1,4 +1,6 @@
-## Faaaala pessoal, Michel Aqui!
+## Heeeeey guys, Michel here!
+
+Welcome to my GitHub profile. I'm a programming enthusiast and passionate about creating innovative solutions through code. Here you will find a variety of projects and repositories that reflect my interest in different areas, from web development to data science.
 
 <div>
   
@@ -10,7 +12,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="helloWorld.gif">
-    <h1 align="center">Melhores Techs :white_check_mark:</h1>
+    <h1 align="center">Best Techs :white_check_mark:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,14 +21,14 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+  <h1 align="center">Social Media</h1>
+    <a href = "mailto: michels2v@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/michel-souza-8a293824b/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/m1ch3el2/">
       <img width="25" src="instagram.png">
     </a>
 </div>
